@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeoluwa Gbenro</h1>
-<h3 align="center">Asoftware developer and web & app developer from Nigeria with over 2yrs+ in the tech space. I am interested in anything related to programming. I love listening to music, playing video games, playing the piano and chatting.</h3>
+<h3 align="center">A software developer and web & app developer from Nigeria with over 3yrs+ in the tech space. I am interested in anything related to programming. I love listening to music, playing video games, playing the piano and learning new skill</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajanixoxo&label=Profile%20views&color=0e75b6&style=flat" alt="ajanixoxo" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/dexcoded01" target="blank"><img src="https://img.shields.io/twitter/follow/dexcoded01?logo=twitter&style=for-the-badge" alt="dexcoded01" /></a> </p>
 
-- 🔭 I’m currently working on [Trekking Agent](www.trekkingagent.come)
+- 🔭 I’m currently working on KeyClash(Tying game)
 
-- 🌱 I’m currently learning **Web3, App Development & Ethical Hacking**
+- 🌱 I’m currently learning **Some Backend Concept, App Development & 3d web design**
 
-- 👨‍💻 Most of my projects are available at(Still working on it) [https://adeoluwagbenro.vercel.app/](https://adeoluwagbenro.vercel.app/)
+- 👨‍💻 Most of my projects are available on my [Portfolio](https://adeoluwagbenro.vercel.app/)
 
-- 💬 Ask me about **The MERN Stack**
+- 💬 Ask me about **The MERN Stack and a lot**
 
 - 📫 How to reach me **joelayomide35@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/o614k8s695](https://flowcv.com/resume/o614k8s695)
+- 📄 Know about my experiences [Resume](https://flowcv.com/resume/o614k8s695)
 
-- ⚡ Fun fact **I love playing video games, listening to music, chatting, building softwares, playing piano and I actually think I am funny**
+- ⚡ Fun fact **I love playing video games, listening to music, building softwares, playing piano and I actually think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
