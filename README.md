@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeoluwa Gbenro</h1>
-<h3 align="center">A software developer and web & app developer from Nigeria with over 3yrs+ in the tech space. I am interested in anything related to programming. I love listening to music, playing video games, playing the piano and learning new skill</h3>
+<h3 align="center">A software developer and web & app developer from Nigeria with over 4yrs+ in the tech space. I am interested in anything related to programming. I love listening to music, playing video games, playing the piano and learning new skill</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajanixoxo&label=Profile%20views&color=0e75b6&style=flat" alt="ajanixoxo" /> </p>
 
