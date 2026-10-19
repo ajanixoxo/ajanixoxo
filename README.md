@@ -3,7 +3,7 @@
 **Software Engineer | Full-Stack & Backend Development
 I'm a software engineer from Nigeria who enjoys building useful software, solving problems, and learning how systems work under the hood. I work across frontend and backend development, with an interest in scalable backend systems, financial technology, and distributed systems.
 
-- 🔭 Currently working on 
+- 🔭 Currently working on Spendscope(an AI Personal finance management system)
 - 🌱 Exploring ** UI/UX design, system design, and backend architecture**
 - 💳 Interested in UI development, Game development, fintech, and robotics
 - 🛠️ Tech I work with: TypeScript, JavaScript, React, Next.js, Node.js, Java, Spring Boot, PostgreSQL, MongoDB, and RabbitMQ
